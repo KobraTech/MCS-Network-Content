@@ -1,3 +1,3 @@
 # MCS-Network-Content
-Network content for MCS KobraTech products
+Network content for MCS KobraTech products.\n
 This repository used by IMStudio and Qsamp
