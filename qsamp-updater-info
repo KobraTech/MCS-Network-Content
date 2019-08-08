@@ -1,4 +1,4 @@
 stable_version=(0.2.8.567);
 beta_version=(0.0.0.0);
-new_version_download_link=https://github.com/KobraTech/MCS-Network-Content/blob/master/ASIO4ALL_2_13_Russian.exe?raw=true;
+new_version_download_link=;
 new_changelog_file_link=https://raw.githubusercontent.com/KobraTech/MCS-Network-Content/master/qsamp-change-log-file;
